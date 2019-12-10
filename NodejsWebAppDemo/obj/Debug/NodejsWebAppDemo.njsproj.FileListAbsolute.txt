@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\NodejsWebAppDemo\NodejsWebAppDemo\obj\Debug\NodejsWebAppDemo.njsprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\NodejsWebAppDemo\NodejsWebAppDemo\obj\Debug\NodejsWebAppDemo.njsproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\NodejsWebAppDemo\NodejsWebAppDemo\bin\Microsoft.NodejsTools.WebRole.dll
+E:\NodejsWebAppDemo\NodejsWebAppDemo\obj\Debug\NodejsWebAppDemo.njsprojAssemblyReference.cache
+E:\NodejsWebAppDemo\NodejsWebAppDemo\obj\Debug\NodejsWebAppDemo.njsproj.CoreCompileInputs.cache
+E:\NodejsWebAppDemo\NodejsWebAppDemo\bin\Microsoft.NodejsTools.WebRole.dll
+F:\Alpesh\NodejsWebAppDemo\NodejsWebAppDemo\obj\Debug\NodejsWebAppDemo.njsprojAssemblyReference.cache
