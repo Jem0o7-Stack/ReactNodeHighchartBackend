@@ -11,10 +11,10 @@ var mimetype = require('mimetype');
 
  // config for your database  
 var config = {
-    server: '192.68.100.153\\sqlexpress',
-    database: 'ReactJsMvc',
-    user: 'sqluser',
-    password: 'usersql'  
+    server: '',
+    database: '',
+    user: '',
+    password: ''  
     
 };
 app.use(bodyParser.json());
