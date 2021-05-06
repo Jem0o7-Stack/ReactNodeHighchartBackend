@@ -20,7 +20,7 @@
     "css-loader": "^1.0.0",
     "express": "^4.16.3",
     "fixed-data-table": "^0.6.5",
-    "highcharts": "^6.1.4",
+    "highcharts": "^9.0.0",
     "html-webpack-plugin": "^3.2.0",
     "jquery": "^3.3.1",
     "mimetype": "0.0.8",
